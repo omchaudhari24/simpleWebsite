@@ -1,6 +1,6 @@
-# TinDog Website
+# Website
 
-This repository contains the source code for the TinDog website, a fictional platform designed to connect dogs and their owners. The website is built using HTML, CSS, and Bootstrap for responsive design and interactivity.
+This repository contains the source code for a simple website, a fictional platform designed to connect dogs and their owners. The website is built using HTML, CSS, and Bootstrap for responsive design and interactivity.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This repository contains the source code for the TinDog website, a fictional pla
 
 ## Description
 
-The TinDog website is a single-page application that promotes a dog dating platform. The website features several sections:
+The website is a single-page application that promotes a dog dating platform. The website features several sections:
 
 1. **Title**: Introduction to the TinDog platform with a tagline, download buttons, and an image.
 2. **Features**: Highlights the key features of the TinDog platform.
